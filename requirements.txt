@@ -1,0 +1,17 @@
+# Core ML
+torch
+transformers
+tokenizers
+
+# Data
+pandas
+numpy
+scikit-learn
+
+# Backend
+flask
+flask-cors
+
+# Utilities
+tqdm
+safetensors

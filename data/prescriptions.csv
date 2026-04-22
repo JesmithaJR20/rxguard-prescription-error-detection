@@ -1,0 +1,481 @@
+text,label
+Prescription calls for Digoxin 1.5mg every 2 hours — unsafe.,overdose
+Gabapentin 300mg as needed prescribed. No known allergies reported.,safe
+Omeprazole 120mg three times daily. Exceeds maximum safe dosage.,overdose
+Administer Aspirin 1500mg every 4 hours for bacterial infection.,overdose
+Administer Amoxicillin 500mg orally once daily. Indication: hypothyroidism.,safe
+Continue Aspirin 75mg and start Ibuprofen 400mg concurrently.,drug_interaction
+Administer Gabapentin 4800mg as loading dose without tapering.,overdose
+Sertraline 50mg three times daily as needed for chronic pain. Max 50mg per dose.,safe
+Digoxin and Amiodarone prescribed together — potential serious interaction.,drug_interaction
+Administer Paracetamol 5000mg as loading dose without tapering.,overdose
+Patient taking Codeine 30mg and Sertraline 50mg simultaneously.,drug_interaction
+Take Aspirin 75mg with food twice daily for hypothyroidism.,safe
+Combination therapy: Warfarin 75mg + Aspirin 75mg for urinary tract infection.,drug_interaction
+Prescription calls for Aspirin 1500mg every 2 hours — unsafe.,overdose
+Aspirin 75mg once daily along with Ibuprofen 400mg daily.,drug_interaction
+Metformin and Contrast Dye prescribed together — potential serious interaction.,drug_interaction
+Aspirin 1500mg as needed ordered. Potential overdose risk detected.,overdose
+Prescribed Amoxicillin 3000mg orally. Standard max is 500mg.,overdose
+Prescription: Warfarin 5mg as needed for mild epilepsy.,safe
+Co-prescribe Warfarin with Omeprazole for chronic pain.,drug_interaction
+Codeine 30mg twice daily prescribed. No known allergies reported.,safe
+Add Codeine 30mg to existing regimen of Gabapentin 300mg.,drug_interaction
+Patient taking Aspirin 75mg and Ibuprofen 400mg simultaneously.,drug_interaction
+Digoxin 0.125mg once daily at bedtime for hypothyroidism.,safe
+Ibuprofen 2400mg daily for chronic type 2 diabetes — far above guidelines.,overdose
+Patient prescribed Paracetamol 500mg twice daily for chronic pain.,safe
+Sertraline 50mg once daily as needed for anxiety disorder. Max 50mg per dose.,safe
+Take Omeprazole 20mg with food twice daily for hypertension.,safe
+Sertraline 400mg daily for chronic type 2 diabetes — far above guidelines.,overdose
+Continue Lisinopril 10mg and start Spironolactone 25mg concurrently.,drug_interaction
+Patient taking Warfarin 75mg and Aspirin 75mg simultaneously.,drug_interaction
+Administer Levothyroxine 50mcg orally twice daily. Indication: high cholesterol.,safe
+Administer Lisinopril 80mg every 4 hours for heart failure.,overdose
+Metformin 3500mg every 6 hours; maximum recommended is 500mg per day.,overdose
+Warfarin 30mg every 8 hours ordered. Potential overdose risk detected.,overdose
+Administer Lisinopril 10mg orally as needed. Indication: type 2 diabetes.,safe
+Start Digoxin 0.125mg three times daily for osteoarthritis. Monitor after 2 weeks.,safe
+Take Atorvastatin 20mg with food every 8 hours for chronic pain.,safe
+Omeprazole 20mg as needed as needed for epilepsy. Max 20mg per dose.,safe
+Take Digoxin 1.5mg as needed — dose is critically high for anxiety disorder.,overdose
+Patient to take Lisinopril 10mg as needed with plenty of water.,safe
+Combination therapy: Atorvastatin 20mg + Clarithromycin 250mg for migraine.,drug_interaction
+Gabapentin 300mg every 12 hours as needed for depression. Max 300mg per dose.,safe
+Administer Amoxicillin 500mg orally every 8 hours. Indication: osteoarthritis.,safe
+Patient prescribed Amlodipine 50mg once daily for depression.,overdose
+Patient on Ibuprofen; new prescription for Warfarin for hypertension.,drug_interaction
+Prescription: Levothyroxine 50mcg as needed for mild heart failure.,safe
+Lisinopril 80mg three times daily. Exceeds maximum safe dosage.,overdose
+Combination therapy: Warfarin 5mg + Omeprazole 20mg for type 2 diabetes.,drug_interaction
+Add Spironolactone 25mg to existing regimen of Lisinopril 10mg.,drug_interaction
+Administer Lisinopril 80mg every 4 hours for atrial fibrillation.,overdose
+Codeine 30mg and Sertraline 50mg co-administered. Check interaction.,drug_interaction
+Amoxicillin 500mg every 12 hours prescribed. No known allergies reported.,safe
+Atorvastatin 20mg twice daily prescribed. No known allergies reported.,safe
+Gabapentin 300mg as needed prescribed. No known allergies reported.,safe
+Continue Atorvastatin 20mg and start Clarithromycin 250mg concurrently.,drug_interaction
+Continue Codeine 30mg and start Sertraline 50mg concurrently.,drug_interaction
+Amoxicillin and Warfarin prescribed together — potential serious interaction.,drug_interaction
+Patient taking Codeine 30mg and Sertraline 50mg simultaneously.,drug_interaction
+Atorvastatin 120mg every 8 hours ordered. Potential overdose risk detected.,overdose
+Co-prescribe Metformin with Alcohol for acid reflux.,drug_interaction
+Sertraline 50mg twice daily for 7 days. Refill x1 for anxiety disorder.,safe
+Administer Digoxin 0.125mg orally as needed. Indication: epilepsy.,safe
+Patient on Atorvastatin; new prescription for Clarithromycin for urinary tract infection.,drug_interaction
+Start Ibuprofen 400mg three times daily for heart failure. Monitor after 2 weeks.,safe
+Patient to take Gabapentin 300mg every 12 hours with plenty of water.,safe
+Omeprazole 120mg every 12 hours ordered. Potential overdose risk detected.,overdose
+Administer Codeine 300mg every 4 hours for heart failure.,overdose
+Omeprazole 20mg three times daily prescribed. No known allergies reported.,safe
+Codeine 30mg every 12 hours along with Sertraline 50mg daily.,drug_interaction
+Patient taking Sertraline 50mg and Tramadol 50mg simultaneously.,drug_interaction
+Aspirin 1500mg as needed ordered. Potential overdose risk detected.,overdose
+Amlodipine 50mg every 6 hours; maximum recommended is 5mg per day.,overdose
+Start Amlodipine 5mg twice daily for high cholesterol. Monitor after 2 weeks.,safe
+Omeprazole 20mg twice daily for 7 days. Refill x1 for hypothyroidism.,safe
+Digoxin 1.5mg daily for chronic epilepsy — far above guidelines.,overdose
+Administer Lisinopril 10mg orally every 12 hours. Indication: acid reflux.,safe
+Patient on Warfarin; new prescription for Aspirin for hypothyroidism.,drug_interaction
+Metformin 3500mg every 6 hours; maximum recommended is 500mg per day.,overdose
+Lisinopril 10mg every 12 hours along with Spironolactone 25mg daily.,drug_interaction
+Combination therapy: Metformin 500mg + Alcohol unknown for hypertension.,drug_interaction
+Omeprazole 20mg every 12 hours for 7 days. Refill x1 for depression.,safe
+Levothyroxine 600mcg three times daily. Exceeds maximum safe dosage.,overdose
+Prescription calls for Sertraline 400mg every 2 hours — unsafe.,overdose
+Amlodipine 50mg every 6 hours; maximum recommended is 5mg per day.,overdose
+Prescription calls for Amlodipine 50mg every 2 hours — unsafe.,overdose
+Patient prescribed Aspirin 75mg three times daily for osteoarthritis.,safe
+Co-prescribe Codeine with Sertraline for depression.,drug_interaction
+Prescription calls for Digoxin 1.5mg every 2 hours — unsafe.,overdose
+Add Spironolactone 25mg to existing regimen of Lisinopril 10mg.,drug_interaction
+Administer Atorvastatin 120mg as loading dose without tapering.,overdose
+Gabapentin 300mg every 8 hours for 7 days. Refill x1 for depression.,safe
+Administer Gabapentin 300mg orally once daily. Indication: urinary tract infection.,safe
+Patient prescribed Ibuprofen 2400mg once daily for chronic pain.,overdose
+Administer Gabapentin 300mg orally every 12 hours. Indication: osteoarthritis.,safe
+Levothyroxine 600mcg three times daily. Exceeds maximum safe dosage.,overdose
+Administer Amlodipine 5mg orally every 12 hours. Indication: heart failure.,safe
+Amoxicillin 500mg as needed for 7 days. Refill x1 for type 2 diabetes.,safe
+Amlodipine 5mg once daily at bedtime for chronic pain.,safe
+Administer Atorvastatin 120mg as loading dose without tapering.,overdose
+Continue Sertraline 50mg and start Tramadol 50mg concurrently.,drug_interaction
+Take Metformin 500mg with food every 12 hours for anxiety disorder.,safe
+Take Aspirin 75mg with food three times daily for bacterial infection.,safe
+Take Amlodipine 50mg as needed — dose is critically high for type 2 diabetes.,overdose
+Prescription calls for Ibuprofen 2400mg every 2 hours — unsafe.,overdose
+Administer Digoxin 0.125mg orally as needed. Indication: depression.,safe
+Warfarin 75mg and Aspirin 75mg co-administered. Check interaction.,drug_interaction
+Patient to take Aspirin 75mg twice daily with plenty of water.,safe
+Patient to take Sertraline 50mg three times daily with plenty of water.,safe
+Levothyroxine 600mcg three times daily. Exceeds maximum safe dosage.,overdose
+Prescription calls for Gabapentin 4800mg every 2 hours — unsafe.,overdose
+Prescribed Levothyroxine 600mcg orally. Standard max is 50mcg.,overdose
+Sertraline 50mg twice daily along with Tramadol 50mg daily.,drug_interaction
+Levothyroxine 600mcg every 6 hours; maximum recommended is 50mcg per day.,overdose
+Prescription: Gabapentin 300mg every 12 hours for mild type 2 diabetes.,safe
+Take Codeine 300mg as needed — dose is critically high for osteoarthritis.,overdose
+Co-prescribe Codeine with Sertraline for heart failure.,drug_interaction
+Take Ibuprofen 2400mg three times daily — dose is critically high for hypothyroidism.,overdose
+Add Tramadol 50mg to existing regimen of Sertraline 50mg.,drug_interaction
+Patient to take Ibuprofen 400mg as needed with plenty of water.,safe
+Warfarin 75mg and Aspirin 75mg co-administered. Check interaction.,drug_interaction
+Amoxicillin 500mg twice daily as needed for anxiety disorder. Max 500mg per dose.,safe
+Take Gabapentin 300mg with food once daily for hypothyroidism.,safe
+Administer Lisinopril 80mg as loading dose without tapering.,overdose
+Patient to take Metformin 500mg once daily with plenty of water.,safe
+Omeprazole 120mg daily for chronic urinary tract infection — far above guidelines.,overdose
+Continue Aspirin 75mg and start Ibuprofen 400mg concurrently.,drug_interaction
+Patient to take Paracetamol 500mg as needed with plenty of water.,safe
+Co-prescribe Atorvastatin with Clarithromycin for atrial fibrillation.,drug_interaction
+Patient on long-term Warfarin; prescribe Omeprazole for acute heart failure.,drug_interaction
+Paracetamol 5000mg three times daily. Exceeds maximum safe dosage.,overdose
+Lisinopril 80mg every 6 hours; maximum recommended is 10mg per day.,overdose
+Patient to take Warfarin 5mg twice daily with plenty of water.,safe
+Take Paracetamol 500mg with food once daily for bacterial infection.,safe
+Start Warfarin 5mg three times daily for high cholesterol. Monitor after 2 weeks.,safe
+Administer Warfarin 5mg orally three times daily. Indication: osteoarthritis.,safe
+Prescription calls for Atorvastatin 120mg every 2 hours — unsafe.,overdose
+Administer Atorvastatin 120mg every 4 hours for chronic pain.,overdose
+Prescribed Levothyroxine 600mcg orally. Standard max is 50mcg.,overdose
+Administer Amoxicillin 3000mg as loading dose without tapering.,overdose
+Patient on long-term Lisinopril; prescribe Spironolactone for acute urinary tract infection.,drug_interaction
+Take Aspirin 75mg with food every 8 hours for epilepsy.,safe
+Ibuprofen 400mg twice daily along with Warfarin 5mg daily.,drug_interaction
+Prescribed Levothyroxine 600mcg orally. Standard max is 50mcg.,overdose
+Metformin 500mg once daily at bedtime for hypothyroidism.,safe
+Metformin 500mg once daily at bedtime for hypertension.,safe
+Patient to take Levothyroxine 50mcg as needed with plenty of water.,safe
+Sertraline 400mg three times daily. Exceeds maximum safe dosage.,overdose
+Patient on Metformin; new prescription for Contrast Dye for hypertension.,drug_interaction
+Take Paracetamol 5000mg three times daily — dose is critically high for atrial fibrillation.,overdose
+Co-prescribe Warfarin with Omeprazole for type 2 diabetes.,drug_interaction
+Add Amiodarone 200mg to existing regimen of Digoxin 0.125mg.,drug_interaction
+Amoxicillin 500mg three times daily prescribed. No known allergies reported.,safe
+Prescribed Sertraline 400mg orally. Standard max is 50mg.,overdose
+Prescribed Amoxicillin 3000mg orally. Standard max is 500mg.,overdose
+Co-prescribe Metformin with Alcohol for epilepsy.,drug_interaction
+Patient on long-term Levothyroxine; prescribe Calcium for acute bacterial infection.,drug_interaction
+Patient to take Aspirin 75mg twice daily with plenty of water.,safe
+Administer Atorvastatin 120mg as loading dose without tapering.,overdose
+Administer Ibuprofen 400mg orally as needed. Indication: osteoarthritis.,safe
+Administer Lisinopril 80mg every 4 hours for osteoarthritis.,overdose
+Continue Amlodipine 5mg and start Simvastatin 40mg concurrently.,drug_interaction
+Codeine 300mg once daily ordered. Potential overdose risk detected.,overdose
+Levothyroxine 50mcg twice daily prescribed. No known allergies reported.,safe
+Patient on Amoxicillin; new prescription for Warfarin for hypertension.,drug_interaction
+Digoxin 1.5mg three times daily ordered. Potential overdose risk detected.,overdose
+Start Lisinopril 10mg every 12 hours for hypothyroidism. Monitor after 2 weeks.,safe
+Patient prescribed Atorvastatin 20mg every 12 hours for type 2 diabetes.,safe
+Patient prescribed Metformin 3500mg twice daily for urinary tract infection.,overdose
+Continue Levothyroxine 50mcg and start Calcium 500mg concurrently.,drug_interaction
+Levothyroxine 600mcg every 6 hours; maximum recommended is 50mcg per day.,overdose
+Ibuprofen and Warfarin prescribed together — potential serious interaction.,drug_interaction
+Start Codeine 30mg twice daily for osteoarthritis. Monitor after 2 weeks.,safe
+Patient on long-term Levothyroxine; prescribe Calcium for acute osteoarthritis.,drug_interaction
+Amlodipine 5mg once daily at bedtime for acid reflux.,safe
+Co-prescribe Metformin with Alcohol for migraine.,drug_interaction
+Warfarin and Omeprazole prescribed together — potential serious interaction.,drug_interaction
+Combination therapy: Amoxicillin 500mg + Warfarin 5mg for anxiety disorder.,drug_interaction
+Patient on Metformin; new prescription for Contrast Dye for epilepsy.,drug_interaction
+Take Paracetamol 500mg with food every 8 hours for bacterial infection.,safe
+Patient taking Aspirin 75mg and Ibuprofen 400mg simultaneously.,drug_interaction
+Omeprazole 120mg daily for chronic hypertension — far above guidelines.,overdose
+Digoxin and Amiodarone prescribed together — potential serious interaction.,drug_interaction
+Amlodipine 5mg and Simvastatin 40mg co-administered. Check interaction.,drug_interaction
+Administer Warfarin 5mg orally as needed. Indication: hypertension.,safe
+Digoxin and Amiodarone prescribed together — potential serious interaction.,drug_interaction
+Patient on Levothyroxine; new prescription for Calcium for hypertension.,drug_interaction
+Aspirin 75mg once daily at bedtime for type 2 diabetes.,safe
+Amoxicillin 3000mg three times daily. Exceeds maximum safe dosage.,overdose
+Administer Atorvastatin 120mg every 4 hours for atrial fibrillation.,overdose
+Start Digoxin 0.125mg every 8 hours for acid reflux. Monitor after 2 weeks.,safe
+Levothyroxine 50mcg and Calcium 500mg co-administered. Check interaction.,drug_interaction
+Gabapentin and Codeine prescribed together — potential serious interaction.,drug_interaction
+Patient prescribed Levothyroxine 600mcg every 12 hours for acid reflux.,overdose
+Administer Atorvastatin 20mg orally three times daily. Indication: heart failure.,safe
+Aspirin 75mg every 8 hours as needed for chronic pain. Max 75mg per dose.,safe
+Start Metformin 500mg once daily for migraine. Monitor after 2 weeks.,safe
+Co-prescribe Codeine with Sertraline for heart failure.,drug_interaction
+Atorvastatin 20mg three times daily for 7 days. Refill x1 for urinary tract infection.,safe
+Paracetamol 500mg three times daily as needed for epilepsy. Max 500mg per dose.,safe
+Start Warfarin 5mg every 8 hours for hypothyroidism. Monitor after 2 weeks.,safe
+Prescribed Warfarin 30mg orally. Standard max is 5mg.,overdose
+Patient to take Amlodipine 5mg three times daily with plenty of water.,safe
+Administer Sertraline 50mg orally once daily. Indication: chronic pain.,safe
+Administer Omeprazole 20mg orally three times daily. Indication: acid reflux.,safe
+Co-prescribe Levothyroxine with Calcium for migraine.,drug_interaction
+Continue Aspirin 75mg and start Ibuprofen 400mg concurrently.,drug_interaction
+Digoxin 1.5mg daily for chronic anxiety disorder — far above guidelines.,overdose
+Metformin 3500mg daily for chronic chronic pain — far above guidelines.,overdose
+Patient on long-term Gabapentin; prescribe Codeine for acute urinary tract infection.,drug_interaction
+Co-prescribe Sertraline with Tramadol for migraine.,drug_interaction
+Patient to take Codeine 30mg as needed with plenty of water.,safe
+Start Amlodipine 5mg twice daily for chronic pain. Monitor after 2 weeks.,safe
+Continue Ibuprofen 400mg and start Warfarin 5mg concurrently.,drug_interaction
+Patient on Warfarin; new prescription for Aspirin for migraine.,drug_interaction
+Combination therapy: Ibuprofen 400mg + Warfarin 5mg for urinary tract infection.,drug_interaction
+Amoxicillin and Warfarin prescribed together — potential serious interaction.,drug_interaction
+Administer Atorvastatin 120mg every 4 hours for depression.,overdose
+Levothyroxine 50mcg as needed as needed for bacterial infection. Max 50mcg per dose.,safe
+Warfarin 75mg as needed along with Aspirin 75mg daily.,drug_interaction
+Patient prescribed Omeprazole 20mg twice daily for hypertension.,safe
+Amoxicillin 500mg and Warfarin 5mg co-administered. Check interaction.,drug_interaction
+Start Atorvastatin 20mg once daily for chronic pain. Monitor after 2 weeks.,safe
+Levothyroxine 50mcg as needed for 7 days. Refill x1 for depression.,safe
+Take Warfarin 5mg with food every 8 hours for hypothyroidism.,safe
+Patient taking Sertraline 50mg and Tramadol 50mg simultaneously.,drug_interaction
+Patient on long-term Digoxin; prescribe Amiodarone for acute depression.,drug_interaction
+Omeprazole 120mg as needed ordered. Potential overdose risk detected.,overdose
+Gabapentin 4800mg every 6 hours; maximum recommended is 300mg per day.,overdose
+Patient prescribed Paracetamol 5000mg three times daily for atrial fibrillation.,overdose
+Prescribed Metformin 3500mg orally. Standard max is 500mg.,overdose
+Continue Atorvastatin 20mg and start Clarithromycin 250mg concurrently.,drug_interaction
+Patient prescribed Ibuprofen 2400mg three times daily for hypothyroidism.,overdose
+Patient prescribed Sertraline 50mg as needed for epilepsy.,safe
+Continue Metformin 500mg and start Alcohol unknown concurrently.,drug_interaction
+Omeprazole 20mg once daily prescribed. No known allergies reported.,safe
+Patient on long-term Aspirin; prescribe Ibuprofen for acute osteoarthritis.,drug_interaction
+Administer Paracetamol 5000mg as loading dose without tapering.,overdose
+Prescription: Atorvastatin 20mg as needed for mild osteoarthritis.,safe
+Administer Sertraline 400mg as loading dose without tapering.,overdose
+Paracetamol 5000mg every 12 hours ordered. Potential overdose risk detected.,overdose
+Warfarin 30mg three times daily. Exceeds maximum safe dosage.,overdose
+Metformin 500mg once daily at bedtime for high cholesterol.,safe
+Prescription calls for Sertraline 400mg every 2 hours — unsafe.,overdose
+Add Spironolactone 25mg to existing regimen of Lisinopril 10mg.,drug_interaction
+Patient to take Warfarin 5mg once daily with plenty of water.,safe
+Aspirin 75mg once daily for 7 days. Refill x1 for high cholesterol.,safe
+Prescription calls for Codeine 300mg every 2 hours — unsafe.,overdose
+Patient on long-term Metformin; prescribe Contrast Dye for acute acid reflux.,drug_interaction
+Patient on Warfarin; new prescription for Aspirin for depression.,drug_interaction
+Omeprazole 20mg every 12 hours prescribed. No known allergies reported.,safe
+Gabapentin 300mg every 12 hours for 7 days. Refill x1 for chronic pain.,safe
+Prescribed Atorvastatin 120mg orally. Standard max is 20mg.,overdose
+Co-prescribe Ibuprofen with Warfarin for anxiety disorder.,drug_interaction
+Atorvastatin and Clarithromycin prescribed together — potential serious interaction.,drug_interaction
+Administer Digoxin 1.5mg every 4 hours for heart failure.,overdose
+Take Codeine 30mg with food twice daily for heart failure.,safe
+Co-prescribe Digoxin with Amiodarone for migraine.,drug_interaction
+Amlodipine 50mg three times daily. Exceeds maximum safe dosage.,overdose
+Lisinopril 10mg as needed prescribed. No known allergies reported.,safe
+Co-prescribe Atorvastatin with Clarithromycin for atrial fibrillation.,drug_interaction
+Amlodipine 50mg daily for chronic type 2 diabetes — far above guidelines.,overdose
+Patient on Amlodipine; new prescription for Simvastatin for anxiety disorder.,drug_interaction
+Ibuprofen 2400mg three times daily. Exceeds maximum safe dosage.,overdose
+Atorvastatin 20mg every 8 hours along with Clarithromycin 250mg daily.,drug_interaction
+Patient to take Amlodipine 5mg twice daily with plenty of water.,safe
+Administer Omeprazole 120mg every 4 hours for hypothyroidism.,overdose
+Take Levothyroxine 50mcg with food as needed for heart failure.,safe
+Amlodipine 50mg daily for chronic type 2 diabetes — far above guidelines.,overdose
+Start Aspirin 75mg once daily for depression. Monitor after 2 weeks.,safe
+Administer Aspirin 1500mg as loading dose without tapering.,overdose
+Patient on long-term Aspirin; prescribe Ibuprofen for acute hypertension.,drug_interaction
+Warfarin and Omeprazole prescribed together — potential serious interaction.,drug_interaction
+Prescribed Sertraline 400mg orally. Standard max is 50mg.,overdose
+Patient on long-term Metformin; prescribe Alcohol for acute bacterial infection.,drug_interaction
+Levothyroxine 50mcg every 8 hours as needed for urinary tract infection. Max 50mcg per dose.,safe
+Gabapentin 4800mg three times daily. Exceeds maximum safe dosage.,overdose
+Ibuprofen 400mg once daily at bedtime for depression.,safe
+Sertraline 50mg once daily at bedtime for chronic pain.,safe
+Prescribed Gabapentin 4800mg orally. Standard max is 300mg.,overdose
+Take Warfarin 30mg as needed — dose is critically high for anxiety disorder.,overdose
+Patient prescribed Amoxicillin 3000mg three times daily for depression.,overdose
+Administer Levothyroxine 600mcg as loading dose without tapering.,overdose
+Warfarin 5mg every 8 hours along with Omeprazole 20mg daily.,drug_interaction
+Patient on long-term Lisinopril; prescribe Spironolactone for acute anxiety disorder.,drug_interaction
+Sertraline and Tramadol prescribed together — potential serious interaction.,drug_interaction
+Patient on Gabapentin; new prescription for Codeine for atrial fibrillation.,drug_interaction
+Patient taking Ibuprofen 400mg and Warfarin 5mg simultaneously.,drug_interaction
+Combination therapy: Metformin 500mg + Contrast Dye IV dose for type 2 diabetes.,drug_interaction
+Continue Aspirin 75mg and start Ibuprofen 400mg concurrently.,drug_interaction
+Prescription: Metformin 500mg twice daily for mild bacterial infection.,safe
+Omeprazole 120mg daily for chronic osteoarthritis — far above guidelines.,overdose
+Patient to take Omeprazole 20mg twice daily with plenty of water.,safe
+Add Ibuprofen 400mg to existing regimen of Aspirin 75mg.,drug_interaction
+Patient on Digoxin; new prescription for Amiodarone for chronic pain.,drug_interaction
+Levothyroxine 600mcg daily for chronic atrial fibrillation — far above guidelines.,overdose
+Amlodipine 5mg every 12 hours prescribed. No known allergies reported.,safe
+Co-prescribe Amlodipine with Simvastatin for atrial fibrillation.,drug_interaction
+Prescribed Digoxin 1.5mg orally. Standard max is 0.125mg.,overdose
+Start Paracetamol 500mg three times daily for epilepsy. Monitor after 2 weeks.,safe
+Metformin 500mg and Alcohol unknown co-administered. Check interaction.,drug_interaction
+Prescription: Ibuprofen 400mg every 8 hours for mild anxiety disorder.,safe
+Levothyroxine 50mcg twice daily along with Calcium 500mg daily.,drug_interaction
+Patient prescribed Gabapentin 300mg every 8 hours for bacterial infection.,safe
+Continue Levothyroxine 50mcg and start Calcium 500mg concurrently.,drug_interaction
+Warfarin and Aspirin prescribed together — potential serious interaction.,drug_interaction
+Patient prescribed Levothyroxine 600mcg three times daily for chronic pain.,overdose
+Take Lisinopril 10mg with food every 8 hours for epilepsy.,safe
+Take Aspirin 1500mg twice daily — dose is critically high for urinary tract infection.,overdose
+Co-prescribe Ibuprofen with Warfarin for atrial fibrillation.,drug_interaction
+Add Alcohol unknown to existing regimen of Metformin 500mg.,drug_interaction
+Take Amoxicillin 3000mg three times daily — dose is critically high for urinary tract infection.,overdose
+Ibuprofen and Warfarin prescribed together — potential serious interaction.,drug_interaction
+Amoxicillin 500mg three times daily prescribed. No known allergies reported.,safe
+Prescription: Paracetamol 500mg three times daily for mild osteoarthritis.,safe
+Combination therapy: Sertraline 50mg + Tramadol 50mg for hypothyroidism.,drug_interaction
+Patient to take Sertraline 50mg twice daily with plenty of water.,safe
+Lisinopril 10mg once daily at bedtime for heart failure.,safe
+Patient prescribed Atorvastatin 20mg as needed for type 2 diabetes.,safe
+Take Paracetamol 500mg with food as needed for chronic pain.,safe
+Administer Paracetamol 5000mg every 4 hours for osteoarthritis.,overdose
+Prescription calls for Warfarin 30mg every 2 hours — unsafe.,overdose
+Patient to take Amlodipine 5mg as needed with plenty of water.,safe
+Administer Aspirin 75mg orally once daily. Indication: migraine.,safe
+Combination therapy: Levothyroxine 50mcg + Calcium 500mg for migraine.,drug_interaction
+Combination therapy: Atorvastatin 20mg + Clarithromycin 250mg for osteoarthritis.,drug_interaction
+Levothyroxine 50mcg every 8 hours as needed for osteoarthritis. Max 50mcg per dose.,safe
+Administer Amoxicillin 3000mg as loading dose without tapering.,overdose
+Administer Amoxicillin 3000mg every 4 hours for high cholesterol.,overdose
+Administer Lisinopril 80mg every 4 hours for depression.,overdose
+Patient to take Atorvastatin 20mg once daily with plenty of water.,safe
+Administer Digoxin 1.5mg every 4 hours for heart failure.,overdose
+Start Ibuprofen 400mg twice daily for type 2 diabetes. Monitor after 2 weeks.,safe
+Patient taking Warfarin 5mg and Omeprazole 20mg simultaneously.,drug_interaction
+Metformin 500mg every 8 hours along with Alcohol unknown daily.,drug_interaction
+Take Gabapentin 4800mg once daily — dose is critically high for atrial fibrillation.,overdose
+Patient prescribed Codeine 300mg every 8 hours for urinary tract infection.,overdose
+Amoxicillin and Warfarin prescribed together — potential serious interaction.,drug_interaction
+Patient on Amoxicillin; new prescription for Warfarin for urinary tract infection.,drug_interaction
+Warfarin 75mg twice daily along with Aspirin 75mg daily.,drug_interaction
+Amlodipine 5mg every 12 hours prescribed. No known allergies reported.,safe
+Patient prescribed Metformin 3500mg every 8 hours for anxiety disorder.,overdose
+Ibuprofen 400mg and Warfarin 5mg co-administered. Check interaction.,drug_interaction
+Co-prescribe Aspirin with Ibuprofen for urinary tract infection.,drug_interaction
+Add Codeine 30mg to existing regimen of Gabapentin 300mg.,drug_interaction
+Patient taking Warfarin 5mg and Omeprazole 20mg simultaneously.,drug_interaction
+Omeprazole 20mg every 8 hours prescribed. No known allergies reported.,safe
+Patient on Levothyroxine; new prescription for Calcium for chronic pain.,drug_interaction
+Administer Atorvastatin 120mg as loading dose without tapering.,overdose
+Administer Warfarin 5mg orally every 12 hours. Indication: epilepsy.,safe
+Administer Levothyroxine 600mcg as loading dose without tapering.,overdose
+Start Lisinopril 10mg every 12 hours for chronic pain. Monitor after 2 weeks.,safe
+Continue Digoxin 0.125mg and start Amiodarone 200mg concurrently.,drug_interaction
+Patient on long-term Warfarin; prescribe Omeprazole for acute high cholesterol.,drug_interaction
+Ibuprofen 400mg three times daily as needed for osteoarthritis. Max 400mg per dose.,safe
+Prescription: Ibuprofen 400mg every 12 hours for mild hypertension.,safe
+Prescription calls for Codeine 300mg every 2 hours — unsafe.,overdose
+Co-prescribe Lisinopril with Spironolactone for urinary tract infection.,drug_interaction
+Aspirin 1500mg daily for chronic atrial fibrillation — far above guidelines.,overdose
+Metformin 500mg once daily prescribed. No known allergies reported.,safe
+Omeprazole 120mg daily for chronic high cholesterol — far above guidelines.,overdose
+Patient to take Lisinopril 10mg three times daily with plenty of water.,safe
+Prescription calls for Levothyroxine 600mcg every 2 hours — unsafe.,overdose
+Patient on long-term Sertraline; prescribe Tramadol for acute urinary tract infection.,drug_interaction
+Continue Codeine 30mg and start Sertraline 50mg concurrently.,drug_interaction
+Patient to take Gabapentin 300mg as needed with plenty of water.,safe
+Aspirin 1500mg three times daily. Exceeds maximum safe dosage.,overdose
+Sertraline 50mg and Tramadol 50mg co-administered. Check interaction.,drug_interaction
+Sertraline 400mg three times daily. Exceeds maximum safe dosage.,overdose
+Amoxicillin 3000mg every 6 hours; maximum recommended is 500mg per day.,overdose
+Codeine 300mg every 6 hours; maximum recommended is 30mg per day.,overdose
+Omeprazole 20mg three times daily for 7 days. Refill x1 for chronic pain.,safe
+Administer Atorvastatin 120mg as loading dose without tapering.,overdose
+Aspirin 1500mg daily for chronic high cholesterol — far above guidelines.,overdose
+Start Amoxicillin 500mg every 8 hours for bacterial infection. Monitor after 2 weeks.,safe
+Warfarin 30mg three times daily. Exceeds maximum safe dosage.,overdose
+Atorvastatin 120mg every 6 hours; maximum recommended is 20mg per day.,overdose
+Codeine 300mg every 6 hours; maximum recommended is 30mg per day.,overdose
+Patient on Levothyroxine; new prescription for Calcium for depression.,drug_interaction
+Paracetamol 5000mg daily for chronic osteoarthritis — far above guidelines.,overdose
+Add Simvastatin 40mg to existing regimen of Amlodipine 5mg.,drug_interaction
+Prescription: Gabapentin 300mg as needed for mild depression.,safe
+Take Omeprazole 20mg with food as needed for atrial fibrillation.,safe
+Patient on long-term Amlodipine; prescribe Simvastatin for acute type 2 diabetes.,drug_interaction
+Amlodipine and Simvastatin prescribed together — potential serious interaction.,drug_interaction
+Sertraline 400mg daily for chronic atrial fibrillation — far above guidelines.,overdose
+Administer Paracetamol 500mg orally every 8 hours. Indication: anxiety disorder.,safe
+Patient taking Metformin 500mg and Contrast Dye IV dose simultaneously.,drug_interaction
+Paracetamol 5000mg daily for chronic depression — far above guidelines.,overdose
+Ibuprofen 400mg and Warfarin 5mg co-administered. Check interaction.,drug_interaction
+Metformin 500mg every 12 hours along with Alcohol unknown daily.,drug_interaction
+Prescription: Sertraline 50mg as needed for mild urinary tract infection.,safe
+Patient taking Gabapentin 300mg and Codeine 30mg simultaneously.,drug_interaction
+Digoxin 1.5mg three times daily. Exceeds maximum safe dosage.,overdose
+Codeine 300mg every 12 hours ordered. Potential overdose risk detected.,overdose
+Digoxin 1.5mg three times daily. Exceeds maximum safe dosage.,overdose
+Patient prescribed Metformin 3500mg once daily for hypertension.,overdose
+Patient prescribed Codeine 30mg twice daily for depression.,safe
+Co-prescribe Lisinopril with Spironolactone for atrial fibrillation.,drug_interaction
+Warfarin 30mg daily for chronic urinary tract infection — far above guidelines.,overdose
+Atorvastatin 120mg daily for chronic chronic pain — far above guidelines.,overdose
+Amlodipine 5mg three times daily prescribed. No known allergies reported.,safe
+Digoxin and Amiodarone prescribed together — potential serious interaction.,drug_interaction
+Administer Sertraline 400mg every 4 hours for atrial fibrillation.,overdose
+Administer Paracetamol 5000mg as loading dose without tapering.,overdose
+Codeine 30mg and Sertraline 50mg co-administered. Check interaction.,drug_interaction
+Amlodipine 50mg daily for chronic urinary tract infection — far above guidelines.,overdose
+Ibuprofen 400mg and Warfarin 5mg co-administered. Check interaction.,drug_interaction
+Codeine 300mg daily for chronic epilepsy — far above guidelines.,overdose
+Omeprazole 120mg daily for chronic atrial fibrillation — far above guidelines.,overdose
+Administer Aspirin 75mg orally as needed. Indication: migraine.,safe
+Ibuprofen 400mg every 8 hours along with Warfarin 5mg daily.,drug_interaction
+Metformin and Alcohol prescribed together — potential serious interaction.,drug_interaction
+Patient to take Gabapentin 300mg as needed with plenty of water.,safe
+Patient prescribed Digoxin 1.5mg every 12 hours for migraine.,overdose
+Start Amoxicillin 500mg every 12 hours for urinary tract infection. Monitor after 2 weeks.,safe
+Start Amoxicillin 500mg twice daily for migraine. Monitor after 2 weeks.,safe
+Codeine 300mg every 6 hours; maximum recommended is 30mg per day.,overdose
+Patient prescribed Aspirin 1500mg once daily for hypothyroidism.,overdose
+Paracetamol 500mg once daily at bedtime for atrial fibrillation.,safe
+Administer Amlodipine 5mg orally as needed. Indication: bacterial infection.,safe
+Patient prescribed Metformin 3500mg every 8 hours for anxiety disorder.,overdose
+Take Sertraline 400mg every 8 hours — dose is critically high for anxiety disorder.,overdose
+Levothyroxine 50mcg three times daily prescribed. No known allergies reported.,safe
+Prescription calls for Warfarin 30mg every 2 hours — unsafe.,overdose
+Take Amoxicillin 500mg with food every 12 hours for bacterial infection.,safe
+Add Sertraline 50mg to existing regimen of Codeine 30mg.,drug_interaction
+Prescription: Atorvastatin 20mg twice daily for mild hypothyroidism.,safe
+Patient on long-term Amlodipine; prescribe Simvastatin for acute high cholesterol.,drug_interaction
+Prescribed Warfarin 30mg orally. Standard max is 5mg.,overdose
+Sertraline 400mg daily for chronic heart failure — far above guidelines.,overdose
+Digoxin 0.125mg every 12 hours for 7 days. Refill x1 for high cholesterol.,safe
+Omeprazole 120mg three times daily. Exceeds maximum safe dosage.,overdose
+Sertraline 50mg once daily as needed for high cholesterol. Max 50mg per dose.,safe
+Prescription calls for Atorvastatin 120mg every 2 hours — unsafe.,overdose
+Patient taking Atorvastatin 20mg and Clarithromycin 250mg simultaneously.,drug_interaction
+Sertraline 400mg every 6 hours; maximum recommended is 50mg per day.,overdose
+Patient prescribed Atorvastatin 120mg as needed for anxiety disorder.,overdose
+Add Clarithromycin 250mg to existing regimen of Atorvastatin 20mg.,drug_interaction
+Patient on long-term Lisinopril; prescribe Spironolactone for acute depression.,drug_interaction
+Amlodipine 50mg every 6 hours; maximum recommended is 5mg per day.,overdose
+Add Ibuprofen 400mg to existing regimen of Aspirin 75mg.,drug_interaction
+Take Amlodipine 50mg twice daily — dose is critically high for migraine.,overdose
+Administer Warfarin 30mg every 4 hours for migraine.,overdose
+Co-prescribe Warfarin with Aspirin for anxiety disorder.,drug_interaction
+Administer Ibuprofen 2400mg every 4 hours for chronic pain.,overdose
+Combination therapy: Amoxicillin 500mg + Warfarin 5mg for type 2 diabetes.,drug_interaction
+Take Amoxicillin 3000mg every 8 hours — dose is critically high for osteoarthritis.,overdose
+Take Amoxicillin 3000mg once daily — dose is critically high for anxiety disorder.,overdose
+Digoxin 0.125mg every 12 hours along with Amiodarone 200mg daily.,drug_interaction
+Sertraline and Tramadol prescribed together — potential serious interaction.,drug_interaction
+Patient prescribed Ibuprofen 400mg every 8 hours for depression.,safe
+Prescription: Metformin 500mg twice daily for mild depression.,safe
+Co-prescribe Levothyroxine with Calcium for migraine.,drug_interaction
+Digoxin and Amiodarone prescribed together — potential serious interaction.,drug_interaction
+Patient on long-term Atorvastatin; prescribe Clarithromycin for acute high cholesterol.,drug_interaction
+Atorvastatin 20mg once daily at bedtime for chronic pain.,safe
+Warfarin 30mg every 6 hours; maximum recommended is 5mg per day.,overdose
+Patient prescribed Lisinopril 10mg as needed for depression.,safe
+Atorvastatin 20mg once daily at bedtime for acid reflux.,safe
+Start Amlodipine 5mg once daily for anxiety disorder. Monitor after 2 weeks.,safe
+Administer Warfarin 5mg orally every 8 hours. Indication: hypertension.,safe
+Patient prescribed Lisinopril 10mg every 12 hours for chronic pain.,safe
+Amoxicillin 500mg twice daily as needed for hypothyroidism. Max 500mg per dose.,safe
+Digoxin 0.125mg twice daily prescribed. No known allergies reported.,safe
+Combination therapy: Metformin 500mg + Contrast Dye IV dose for type 2 diabetes.,drug_interaction
+Co-prescribe Warfarin with Omeprazole for migraine.,drug_interaction
+Patient on Lisinopril; new prescription for Spironolactone for depression.,drug_interaction
+Patient on Amlodipine; new prescription for Simvastatin for osteoarthritis.,drug_interaction
+Prescribed Amlodipine 50mg orally. Standard max is 5mg.,overdose
+Prescribed Sertraline 400mg orally. Standard max is 50mg.,overdose
+Co-prescribe Metformin with Alcohol for migraine.,drug_interaction
+Patient on Metformin; new prescription for Alcohol for chronic pain.,drug_interaction
+Digoxin 0.125mg three times daily prescribed. No known allergies reported.,safe
+Patient on Ibuprofen; new prescription for Warfarin for osteoarthritis.,drug_interaction
+Amoxicillin 3000mg three times daily. Exceeds maximum safe dosage.,overdose
+Patient to take Gabapentin 300mg as needed with plenty of water.,safe
+Metformin and Contrast Dye prescribed together — potential serious interaction.,drug_interaction
+Amoxicillin 3000mg every 6 hours; maximum recommended is 500mg per day.,overdose
+Prescription: Omeprazole 20mg every 8 hours for mild depression.,safe
